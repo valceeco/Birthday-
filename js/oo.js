@@ -9,10 +9,10 @@ var love = setInterval(function(){
     $('.bg_heart').append("<div class='heart' style='width:"+(r_size-10)+"px;height:"+(r_size-10)+"px;left:"+(r_left+r_num)+"%;background:rgba(255,"+(r_bg-25)+","+(r_bg+25)+",1);-webkit-animation:love "+(r_time+5)+"s ease;-moz-animation:love "+(r_time+5)+"s ease;-ms-animation:love "+(r_time+5)+"s ease;animation:love "+(r_time+5)+"s ease'></div>");
     
     
-  },500);
+  },700);
   
   var i = 0;
-  var txt1 = "Hi SweetHeart.....!  <<               Now I wan't to say something special to you. <<<                So , Please read everything carefully...!               > When I saw you for the first time < I never how important and special you will be to me.  <<                  As the days went by... < We got closer to each other....! <<    I didnt know why i missed you each time you were not close to me<<                       I don't know the reason why your thoughts always resonates inside my mind...!                                                     > Everything about you is always intresting for me...!                     << I am somewhat nervous Because I haven't said these words to anyone and I won't say to anyone in future...!                                                     > I Love my Parents so much than anything else in this world....!                    << Now You are the only person  whom I love equally with my parents....!                                                             >I Love U <SweetHeart.....! |                  <<<< Give me One chance to Prove my Love ...!";
+  var txt1 = "Hi SweetHeart.....!  <<               Now I wan't to say something special to you. <<<                So , Please read everything carefully...!   < I am not really good with words but....        <<< Happy birthday babe  >>  Today the most wonderful man ever🥰🌎, My anambra baby❤, Obi m🥰, Oyoyo m, My love❤, Asa m, My partner, My hubby❤, My otherhalf🤯.... was born!  < Babe your intentional, affectionate and unconditional love is one-of-a-kind and i count myself lucky to have you in my life. < My love for you grows each day..... and I always discover new reason to love you every passing day... <<     So baby on this special day i wish you a wonderful birthday<< A day full of love, joy, laughter and happiness.. <    I Love u mySweetHeart.....!  << Owner of my heart Happy birthday❤  ...!";
   var speed = 50;
   typeWriter();
   function typeWriter() {
